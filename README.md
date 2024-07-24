@@ -1,1 +1,5 @@
 # MAE-Project-Public
+
+This repository contains all code involving data collection and manipulation for the mixed alkali effect in borate glasses. The main use of the repository is to handle the large pools of unfiltered data collected from electrochemical impedance spectroscopy (EIS), differential scanning calorimetry (DSC), and simultaneous thermal analysis (STA). Data from the EIS is obtained from the Alpha-A High Performance Frequency Analyzer by Novocontrol Technologies, DSC data came from the DSC Q200 by TA Instruments, and STA data was secured on the STA 449 F3 Jupiter by Netzsch.
+
+Please note that the code previded is not designed to be extremely efficient but to manipulate, create graphs, and or change file types between raw text files to excel documents. These programs have also seen use from other researchers at Coe College for their projects during the summer of 2024. While the main purpose is to assist the researchers on the MAE-Project, it has been generalized enough to support other researchers in their pursuit of knowledge.
